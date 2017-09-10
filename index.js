@@ -1,2 +1,3 @@
 console.error ("HELP!")
-conole.log("Calling")
+console.log("Calling Loggers")
+console.warn("Time to warn")
